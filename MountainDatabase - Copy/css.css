@@ -1,0 +1,36 @@
+.logo{
+	height:15%;
+	width:15%;
+	padding-right:500px;
+	
+}
+
+#HeaderMain{
+  position: absolute;
+  top:0;
+  z-index: -1;
+  width:100%;
+  height:70%;
+
+}
+
+nav{
+	font-family:"Microsoft Himalaya";
+	font-size:30px;
+	color:black;
+	text-decoration:none;
+
+}
+a{
+	color:black;
+	text-decoration:none;
+	
+}
+
+a:hover{
+	font-weight:bold;
+}
+#ImageCover{
+	width:100%;
+	padding-top:+10px;
+}
